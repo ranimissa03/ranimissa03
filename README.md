@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Ranim Ben Issa
 
-<!--
-**ranimissa03/ranimissa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante ingénieure à l'**ENSISA** (Groupe INSA) — Informatique & Réseaux  
+📍 Mulhouse, France  
+🔍 En recherche d'une **alternance 24 mois** (2 semaines école / 2 semaines entreprise)
 
-Here are some ideas to get you started:
+## 🛠️ Compétences techniques
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Mes projets
+| Projet | Technologies | Description |
+|--------|-------------|-------------|
+| 🌐 [Réseau d'entreprise](https://github.com/ranimissa03/network-projects) | Cisco Packet Tracer | Réseau multi-départements : DHCP, DNS, HTTP, FTP |
+| 🎮 [Jeu de devinette](https://github.com/ranimissa03/java-devinette) | Java | POO, scores, niveaux de difficulté |
+| 💰 [Gestionnaire budget](https://github.com/ranimissa03/budget-c) | C | Structs, fichiers, CRUD complet |
+| 🧮 [Algorithmes TD](https://github.com/ranimissa03/algorithmes-TD) | C | Exercices algorithmiques |
+
+## 🌍 Langues
+🇫🇷 Français • 🇬🇧 Anglais • 🇹🇳 Arabe
+
+## 📫 Me contacter
+[![Email](https://img.shields.io/badge/Email-ranimissa48@gmail.com-D14836?style=flat&logo=gmail)](mailto:ranimissa48@gmail.com)
