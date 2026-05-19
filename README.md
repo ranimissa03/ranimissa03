@@ -17,7 +17,7 @@
 |--------|-------------|-------------|
 | 🌐 [Réseau d'entreprise](https://github.com/ranimissa03/network-projects) | Cisco Packet Tracer | Réseau multi-départements : DHCP, DNS, HTTP, FTP |
 | 🎮 [Jeu Pac-Man](https://github.com/ranimissa03/java-PacMan) | Java | POO, scores, niveaux de difficulté |
-| 💰 [Gestionnaire budget](https://github.com/ranimissa03/budget-c) | C | Structs, fichiers, CRUD complet |
+| 💰 [dijkstra-metro](https://github.com/ranimissa03/dijkstra-metro-c) | C | Structs, fichiers, CRUD complet |
 | 🧮 [Algorithmes TD](https://github.com/ranimissa03/algorithmes-TD) | C | Exercices algorithmiques |
 
 ## 🌍 Langues
